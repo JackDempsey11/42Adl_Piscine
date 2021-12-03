@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    explain.txt                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jdempsey <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2021/12/03 08:27:35 by jdempsey          #+#    #+#              #
+#    Updated: 2021/12/03 09:16:45 by jdempsey         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Exercise 5 is explained as follows.
+"#include<unistd.h>" is a header which defines miscellaneous symbolic contants and types as well as miscellaneous functions.
+
+"int" is short for interger it is a variable which is used to define numeric variables holding only whole numbers.
+
+int a, b and c identify that a b and c are all holders for numeric values.
+
+"while" is a looping function in c namely called "while loop" it reapeatedly executes a target statement as long as the given condition is true.
+
+"if"  statements allow the ability to control the flow of your program letting it make decisions on what code is executed.
